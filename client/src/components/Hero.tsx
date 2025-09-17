@@ -1,4 +1,5 @@
 import { Button } from "@/components/ui/button";
+import profileImage from "@assets/profile_1758081070881.jpg";
 
 export function Hero() {
   const scrollToSection = (sectionId: string) => {
@@ -20,9 +21,9 @@ export function Hero() {
       <div className="container mx-auto px-4 text-center max-w-4xl relative z-10">
         <div className="animate-fade-in">
           <img 
-            src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&auto=format&fit=crop&w=300&h=300" 
+            src={profileImage} 
             alt="Arslan Ali - Professional Photo" 
-            className="w-32 h-32 rounded-full mx-auto mb-8 border-4 border-primary/20 shadow-xl"
+            className="w-40 h-40 rounded-full mx-auto mb-8 border-4 border-primary/30 shadow-2xl object-cover ring-4 ring-primary/10 hover:ring-primary/20 transition-all duration-300"
             data-testid="img-profile"
           />
           

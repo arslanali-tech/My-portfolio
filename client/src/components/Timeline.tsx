@@ -6,7 +6,7 @@ export function Timeline() {
       id: "education",
       icon: GraduationCap,
       title: "BSCS - Computer Science",
-      organization: "Arid University - Barani Institute of Sciences",
+      organization: "Arid University",
       period: "Currently in 7th Semester | Burewala",
       description: "Focusing on software engineering, AI/ML, distributed systems, and computer architecture. Active in academic projects involving modern web development and AI integration.",
       side: "left",
