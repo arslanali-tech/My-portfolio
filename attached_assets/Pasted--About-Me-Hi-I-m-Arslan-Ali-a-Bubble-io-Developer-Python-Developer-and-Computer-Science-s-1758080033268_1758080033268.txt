@@ -1,0 +1,106 @@
+.
+
+🧑 About Me
+
+Hi, I’m Arslan Ali – a Bubble.io Developer, Python Developer, and Computer Science student passionate about building modern, user-friendly, and AI-powered applications. I specialize in developing web apps, MVPs, SaaS platforms, and AI-integrated solutions.
+
+Currently, I’m pursuing a BSCS (Bachelor of Science in Computer Science) at Arid University , where I’m in my 6th semester. Alongside academics, I work on real-world projects involving no-code/low-code tools, Python automation, APIs, and AI chatbots.
+
+I enjoy creating scalable solutions, experimenting with AI integration, and improving user experience in web and desktop apps.
+
+🛠 Skills
+
+Programming: Python, C#, SQL, JavaScript (basic), NumPy, Pandas,siketlearn,langchain,flask
+
+Frameworks/Platforms: Bubble.io (no-code), Streamlit, Dash, Tkinter, ASP.NET Core (Minimal API), EF Core
+
+Databases: SQLite, ChromaDB,postgresql (vector databases)
+
+APIs & Tools: OpenAI API, Gemini API, Google Maps API, Google Speech-to-Text API, Playwright
+
+Specialized Knowledge:
+
+AI-powered chatbots
+
+Web scraping & automation
+
+Competitive Intelligence apps
+
+Distributed & parallel systems (MPI)
+
+Instruction-level parallelism & computer architecture
+
+Other Tools: VistaCreate (for design), Git/GitHub
+
+🎓 Education
+
+BSCS (Bachelor of Science in Computer Science)
+Arid University – Barani Institute of Sciences, Burewala
+(Currently in 6th semester)
+
+💼 Experience
+
+Freelance Bubble.io Developer
+Building modern, scalable web apps, MVPs, and SaaS products using Bubble.io.
+
+Python Developer
+Experience in automation, AI-powered tools, web scraping, and API integration.
+
+Student Developer
+Hands-on with C#, ASP.NET Core APIs, distributed systems, and AI integration through academic projects.
+
+🚀 Projects
+
+AI-Powered Medical Chatbot with Doctor-Patient Interaction (FYP)
+
+Built with Python, Streamlit, LangChain, OpenAI API
+
+Features: AI medical assistant, doctor appointment booking, SQLite-based interaction storage
+
+Google Maps Business Details Scraper with Gemini API
+
+Extracts business info (name, contact, location)
+
+Built with Playwright + Gemini API
+
+Exports results to Excel with Tkinter UI
+
+SalesApp MVP (Python)
+
+AI-powered assistant for sales reps
+
+Provides real-time competitive intelligence during live calls
+
+Wanderlust Log API (C#)
+
+Minimal API for logging and sharing travel experiences
+
+Includes destinations, activities, and travel tips
+
+The Blog Site API (C#)
+
+Allows users to write, manage, and share blogs
+
+Built with ASP.NET Core Minimal API + EF Core
+
+AI-Powered Smart Prescription Drafts (Concept)
+
+AI prepares prescription drafts for doctors to approve/edit
+
+🌍 Interests
+
+Artificial Intelligence (AI & Chatbots)
+
+Web and App Development
+
+No-code/low-code platforms (Bubble.io)
+
+Distributed systems & computer architecture
+
+Remote work and internships
+
+⚡ This is a full portfolio-ready profile. I can now:
+
+Make it minimal and modern for your website (shorter, cleaner text).
+
+Or keep it detailed like above for a CV-style website.
